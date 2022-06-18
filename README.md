@@ -1,5 +1,5 @@
 # portfolio
-![image](https://user-images.githubusercontent.com/86523413/125217158-f8df0980-e2fa-11eb-9da7-bc1102a4dd1d.png)
+![image](https://user-images.githubusercontent.com/86523413/174429225-a1344b43-1b74-44c5-b623-2cfe353e6748.png)
 
 ![image](https://user-images.githubusercontent.com/86523413/174429192-4e2a9ef6-27a9-423f-8da8-c412975a2abf.png)
 
